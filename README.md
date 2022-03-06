@@ -16,13 +16,14 @@ Bootstrap web frameworking was used to ensure the web site could be accessed fro
 Bootstrap code was entered into the header of the html file displaying the web site to ensure it would display properly on any device.  Below are two screeshots showing the same web site as seen from an iPhone XR and a Surface Pro 7.  
 
 ![picture of web site as seen on iPhone XR](screenshots/m2m_iphonexr.png)
-
+Bootstrap naturally stacks content so that it can be viewed on smaller screened devices such as the iPhone XR shown above and teh Surface Pro 7 shown below.  
 
 ![picture of web site as seen on Surface Pro 7](screenshots/m2m_surfacepro7.png)
 
 
-![python example code #2](screenshots/python_coding_ex2.png)
+
+![screenshot showing a portion of the hmtl code](screenshots/m2m_html.png)
 
 
-![python example code #2](screenshots/python_coding_ex2.png)
+![Web site showing coloring and thumbnail images created with Bootstrap](screenshots/m2m2.png)
 
