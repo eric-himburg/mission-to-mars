@@ -10,8 +10,8 @@ Flask was used to create the initial web framework of the Mission to Mars web si
 ![Flask framework](screenshots/m2m_flask.png)
 
 ## Enhancing the Website using Bootstrap
- 
-![python example code #2](screenshots/python_coding_ex2.png)
+Bootstrap web frameworking was used to ensure the web site could be accessed from any device and was also used to make the content more readable.  A picture of a the Mission to Mars web site as seen from the standard monitor of a desktop computer is shown below.     
+![picture of Mission to Mars web site](screenshots/m2m1.png)
 
 
 ![python example code #2](screenshots/python_coding_ex2.png)
