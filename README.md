@@ -28,6 +28,6 @@ Styling was done using Bootstrap.   In the code shown below, three different enh
 ![screenshot showing a portion of the hmtl code](screenshots/m2m_html.png)
 
 ### Thumbnails and Colors
-Below is a picture showing the final version of the Mission to Mars web site.  A "Mars" red background color was used and white text for easy visibility.  
+Below is a picture showing the final version of the Mission to Mars web site.  A "Mars" red background color was used and white text for easy visibility.  To make the images fit better into the space thumbnail images were created, with the viewer having the option of clicking on them to see full resolution images.  
 ![Web site showing coloring and thumbnail images created with Bootstrap](screenshots/m2m2.png)
 
