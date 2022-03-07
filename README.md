@@ -24,6 +24,7 @@ Bootstrap naturally stacks content so that it can be viewed on smaller screened 
 
 
 ### HTML Code
+Styling was done using Bootstrap.   In the code shown below, three different enhancements can be found.  First, the button used was styled to make it red (
 ![screenshot showing a portion of the hmtl code](screenshots/m2m_html.png)
 
 ### Thumbnails and Colors
