@@ -24,9 +24,10 @@ Bootstrap naturally stacks content so that it can be viewed on smaller screened 
 
 
 ### HTML Code
-Styling was done using Bootstrap.   In the code shown below, three different enhancements can be found.  First, the button used was styled to make it red (
+Styling was done using Bootstrap.   In the code shown below, three different enhancements can be found.  First, the button used was styled to make it red (class = ...).  Second, the background color and text color was changed.  Third, thumbnail images of the four Mars images at the bottom of the web site were added.  
 ![screenshot showing a portion of the hmtl code](screenshots/m2m_html.png)
 
 ### Thumbnails and Colors
+Below is a picture showing the final version of the Mission to Mars web site.  A "Mars" red background color was used and white text for easy visibility.  
 ![Web site showing coloring and thumbnail images created with Bootstrap](screenshots/m2m2.png)
 
